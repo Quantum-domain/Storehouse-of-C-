@@ -1,2 +1,2 @@
 # Storehouse-of-C-
-C++学习资源库
+C++库
